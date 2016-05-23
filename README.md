@@ -10,8 +10,12 @@ Manual:
 
 4: History command would print all commands that have been executed before.  
 
-5: exit & logout: these two commands are used to leaves the shell.
-6: The shell could execute any other external programs as well. e.g, your run “./ hello” in the OS shell.
+5: exit & logout: these two commands are used to leaves the shell.  
+
+6: The shell could execute any other external programs as well. e.g, your run “./ hello” in the OS shell.  
+
 7:pipes - two (or more) commands can be connected together using the syntax COMMAND1 | COMMAND2. This connects the output of
-COMMAND1 to the input of COMMAND2. (in my shell it only support one pipe)
-8:redirection - standard input is redirected using < ARG. This means that command receives everything written in the file ARG, as it would be typed on the keyboard. Standard output is redirected by using > ARG.
+COMMAND1 to the input of COMMAND2. (in my shell it only support one pipe)  
+
+8:redirection - standard input is redirected using < ARG. This means that command receives everything written in the file ARG, as it would be typed on the keyboard. Standard output is redirected by using > ARG.  
+
